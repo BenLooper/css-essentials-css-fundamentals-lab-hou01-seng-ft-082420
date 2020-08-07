@@ -36,5 +36,8 @@ figcaption {
   width: 800px;
 }
 
-#featured-property div
+#featured-property div {
+  text-align: center;
+  display: block;
+}
 
