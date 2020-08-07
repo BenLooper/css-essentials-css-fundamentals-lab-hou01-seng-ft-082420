@@ -27,7 +27,9 @@ nav a {
 }
 
 figcaption {
-  font-size: 
+  display: block;
+  text-align: center;
+  font-size: 5;
   
 }
 
