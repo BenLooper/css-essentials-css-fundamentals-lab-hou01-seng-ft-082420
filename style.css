@@ -26,10 +26,6 @@ nav a {
   padding-left: 10px;
 }
 
-#featured-property * {
-  text-align: center
-}
-
 figcaption {
   display: block;
   text-align: center;
