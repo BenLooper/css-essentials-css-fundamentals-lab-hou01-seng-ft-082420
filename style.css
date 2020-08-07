@@ -40,14 +40,15 @@ figcaption {
 }
 
 #details {
-  display: block
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #details div { 
   float: left;
   background-color: green;
-  margin-right: auto;
-  margin-left: auto;
+ 
    ;
 }
 
