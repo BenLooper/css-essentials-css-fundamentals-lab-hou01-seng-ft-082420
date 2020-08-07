@@ -32,9 +32,11 @@ figcaption {
   font-size: small;
 }
 
-#featured-property p {
-  display:block;
+#featured-property {
+  display: block;
   text-align: center;
-  width:800px;
+}
+#featured-property p {
+  width: 800px;
 }
 
