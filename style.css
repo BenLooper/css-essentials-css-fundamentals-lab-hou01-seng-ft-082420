@@ -34,7 +34,8 @@ figcaption {
 
 #featured-property {
   display: block;
-  text-align: center;
+  position: relative;
+  
 }
 
 #featured-property p {
